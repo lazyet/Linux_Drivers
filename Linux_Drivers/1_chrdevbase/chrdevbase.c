@@ -1,1 +1,5 @@
 tg
+int main(void)
+{
+	
+}
